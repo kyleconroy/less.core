@@ -9,13 +9,13 @@ A standard library for less.js Currently includes
 
 ## Example
 
-   @import "reset";
-   @import "library";
-
-   #wrapper {
+    @import "reset";
+    @import "library";
+    
+    #wrapper {
        .box-shadow(0px, 0px, 3px, #000);
        .border-radius(5px);
-   }
+    }
 
 ## Future
 
